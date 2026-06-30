@@ -46,17 +46,19 @@ The system has two halves that share one vector store.
 <img width="2184" height="1145" alt="▶️ RAG 3 0 - n8n - Google Chrome 6_30_2026 5_24_34 PM(1)" src="https://github.com/user-attachments/assets/32db8706-9f0c-4ec9-86a0-ab0cc2be7960" />
 )
 
-![Conversational agent — text, photo, and voice routing](images/chat-flow.png)
+## Customer Agent
+<img width="1591" height="1128" alt="▶️ RAG 3 0 - n8n - Google Chrome 6_30_2026 5_30_13 PM(1)" src="https://github.com/user-attachments/assets/d2a63fa6-9baa-43c9-b39f-37ad63b82027" />
+
 
 ---
 
-## Demo
+## Small Test
 
 <!-- Drop a short screen recording or GIF here, or link to a Loom / YouTube demo. -->
 
-📹 **[Watch the demo →](#)**  *(replace with your video link)*
+📹 
+<img width="2424" height="1198" alt="Telegram Web - Google Chrome 6_30_2026 5_32_22 PM(1)" src="https://github.com/user-attachments/assets/2cb9bf51-dfd9-471a-8714-f533bff3cdb7" />
 
-![Demo](images/demo.gif)
 
 ---
 
