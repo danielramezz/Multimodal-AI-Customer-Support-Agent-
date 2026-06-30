@@ -98,4 +98,4 @@ I build custom AI automations for e-commerce and SMBs — agents, RAG systems, a
 **Want something like this for your store? Let's talk.**
 
 - 💼 LinkedIn: **[Daniel Ramez](https://www.linkedin.com/in/daniel-ramez-mounir-4b64aa3b0)**
-- 📧 Email: your@email.com
+- 📧 Email: danielramez4@gmail.com
